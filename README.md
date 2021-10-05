@@ -1,7 +1,7 @@
 #😎🐝🐝🐝
 
-- 🐝 Programming Club Event Lead @ GSU | CSC1302 Disc Admin
+- 🐝 Programming Club Event Lead @ GSU 
 - 🔭 Currently learning and practicing Python and Java
-- 😄 Pronouns: she/her he/him they/them
+- 😄 Pronouns: they/them
 - ⚡ Fun fact: I like bees!
 
