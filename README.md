@@ -1,7 +1,7 @@
 #😎🐝🐝🐝
 
-- 🐝 Programming Club Event Lead @ GSU 
-- 🔭 Currently learning and practicing Python and Java
+- 🐝 Programming Club @ GSU President
+- 🔭 Currently learning Data Structures
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I like bees!
 
